@@ -1,0 +1,4 @@
+Nytt inndatamodus: Telegrafnøkkel
+Usynlige forbedringer
+Fiksede feil og krasj
+Android 11 som siktemål

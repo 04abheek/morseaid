@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morse</string>
+    <string name="morse">Morse</string>
+    <string name="text">Text</string>
+    <string name="phrasebook">Phrasebook</string>
+    <string name="settings">Settings</string>
+    <string name="dit_dah">Tap for dit, hold for dah</string>
+    <string name="color_activity">Color Activity</string>
+</resources>

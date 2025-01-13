@@ -1,0 +1,5 @@
+Afegir llibre de frases 
+Migrar a AndroidX 
+Sdk d'actualitzacions 
+Millorar l'accessibilitat 
+Actualitzar dependències

@@ -1,0 +1,41 @@
+Decifre código morse em texto ou converta texto para código morse
+
+Converta qualquer texto em código morse, ou traduza código morse para texto e ouça os resultados.
+
+•	Design de aplicativo moderno e interface organizada.
+•	Feito para ser simples de usar.
+•	Tradução em tempo real: digite a palavra ou código e veja sua tradução no mesmo instante.
+•	Converta Morse em texto, ou texto em Morse.
+•	Pressione o botão do alto-falante para ouvir o código.
+•	Copie o texto apertando o botão "Copiar".
+•	Digite ponto e traço usando nosso teclado Morse embutido.
+•	Software livre (https://github.com/Crazy-Marvin/Morse)
++	Mais recursos a caminho.
+
+Não deixe que os caracteres especiais ou pontos e traços te confundam.
+
+Código Morse é um sistema para codificar letras e números em pontos e traços.
+A duração de um traço é três vezes a duração de um ponto.
+Cada ponto ou traço é seguido por um período de ausência de sinal, chamado de espaço, de mesma duração que um ponto.
+
+O código Morse foi usado pela primeira vez para a comunicação via telégrafo.
+O código Morse mais reconhecido é o SOS, que é usado para sinalizar uma emergência.
+Além de digitar pontos e traços, você também pode sinalizar código Morse acendendo e apagando uma luz, soando uma buzina, batendo, entre outros.
+Qualquer meio de transmissão de mensagens em Morse requer que o destinatário entenda esse código.
+Se esse não for o caso, nossa ferramenta decifradora poderá ser usada para descobrir a senha, número secreto ou qualquer que seja a informação transmitida.
+Como as pessoas raramente se comunicam via telégrafo, ou aprendem no exército, pouquíssimas memorizam códigos Morse.
+Em vez disso, tornou-se uma forma de codificar coisas para fins especiais.
+É uma linguagem útil de se saber, mesmo que você só queira aprender criptografia ou resolver criptogramas para se divertir.
+
+1.	Diga aos outros quando você estiver numa situação perigosa (SOS).
+2.	Oculte seu número secreto ou senha através de pontos e traços.
+3.	Cifrar ou decifrar pistas ocultas em jogos.
+4.	Aprenda criptografia ou criptograma por meio da aprendizagem de códigos Morse.
+5.	Torne-se um decodificador quebrando os códigos secretos em tempo real.
+6.	Crie um número secreto.
++	Muito mais
+
+---
+Ajuda muito deixar uma avaliação na loja ou uma estrela no repositório do código-fonte, e significa muito para a gente.
+Se você tiver problemas usando o aplicativo, envie um e-mail para nós ou abra uma Issue no GitHub.
+Respostas costumam ser imediatas, e bugs são consertados o quanto antes.

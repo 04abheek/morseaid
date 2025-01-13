@@ -1,0 +1,5 @@
+Añadido un libro de frases
+Migración frente a AndroidX
+Actualización SDK
+Accesibilidad mejorada
+Actualizar dependencias

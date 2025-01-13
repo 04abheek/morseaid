@@ -1,0 +1,5 @@
+Zinnenboek Toevoegen
+Migreren naar AndroidX
+Bijwerken SDK
+Verbeteren toegankelijkheid
+Bijwerken afhankelijkheden

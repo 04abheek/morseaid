@@ -1,0 +1,26 @@
+Vertaal tekst naar morsecode of ontcijfer morsecode door ze te vertalen naar tekst! Het is een eenvoudige, gebruiksvriendelijke, maar nuttige app die je op veel manieren kan helpen. Je kunt morsecodes ontcijferen of decoderen, je kunt een geheim nummer maken of leren coderen of cryptografie leren, en nog veel meer! Als je jezelf ziet als een codebreker, download en probeer onze Morse code coderingstool! Laat je niet misleiden door de speciale tekens of de punten en streepjes. 
+
+EIGENSCHAPPEN VAN HET MORSE CODE ONTCIJFERINGSPROGRAMMA:
+•	Strak, modern app ontwerp en interface.
+•	Super eenvoudig te gebruiken. 
+•	Realtime vertaling: typ het woord of de code in en wij vertalen het onmiddellijk voor u.  
+•	Omzetten van morse naar tekst of tekst naar morse.
+•	Druk op de luidsprekertoets om de code te horen.
+•	Kopieer de tekst door op de knop Kopiëren te drukken.
+•	Voer punt en streep in met ons ingebouwde morse-toetsenbord. 
+•	Open Source (https://github.com/Crazy-Marvin/Morse)
+•	Meer functies volgen later! 
+Wat is morsecode? Morsecode is een systeem om letters en cijfers te coderen naar streepjes- en punttekens. De duur van het streepje is driemaal de duur van een punt. Elk punt of streepje wordt gevolgd door een periode van afwezigheid, een spatie genoemd, die gelijk is aan de duur van het puntteken. Morse code werd voor het eerst gebruikt voor communicatie via de telegraaf. TDe bekendste morsecode is SOS, dat wordt gebruikt om een noodsituatie aan te geven. Naast het typen van puntjes en streepjes kun je morsecode ook signaleren door licht aan en uit te doen, een hoorn te laten klinken of te tikken, en nog veel meer.  Je kunt morsecode gebruiken om gemakkelijk berichten over te brengen via verschillende middelen als de ontvanger morsecode begrijpt. Als ze dat niet doen, kunnen ze ons codeerprogramma gebruiken om het wachtwoord, het geheime nummer of andere informatie die u wilt doorgeven te achterhalen. 
+Omdat mensen zelden via de telegraaf communiceren, zijn er tegenwoordig maar weinig mensen die morsecodes kunnen onthouden. In plaats daarvan is het een manier geworden om iets of speciale tekens te coderen voor speciale doeleinden. Natuurlijk worden deze speciale tekens nog steeds veel gebruikt in veel situaties, je weet niet wanneer je ze echt nodig gaat hebben. Het is een nuttige taal om te kennen, zelfs als je gewoon voor de lol cryptografie of cryptogrammen wilt leren. 
+Hoe Morse nuttig is voor jou:
+1.	Laat anderen weten wanneer u zich in een gevaarlijke situatie bevindt (SOS).
+2.	Verberg je geheime nummer of wachtwoord via puntjes en streepjes. 
+3.	Versleutel/Ontcijfer verborgen aanwijzingen in spellen. 
+4.	Leer cryptografie of cryptogram door Morse codes te leren. 
+5.	Word een codebreker door geheime codes te breken in real time vertaling. 
+6.	En veel meer! 
+
+Dus, waar wacht je nog op? Gebruik onze Morse code codeertool om Morse code naar tekst of tekst naar Morse code te ontcijferen! Als codebreker & cryptogram liefhebber, is onze codeertool een must have! Het is nuttig voor iedereen. Probeer het gewoon uit.
+---
+We hopen dat je onze codeertool met plezier gebruikt om te decoderen, cryptografie te leren, of voor andere doeleinden. Als je dat doet, steun dan onze Morse decoder app door een waardering en beoordeling te geven op onze Google Play store pagina en/of een ster op GitHub. Het duurt maar een minuutje en het betekent de wereld voor ons!
+Als u problemen ondervindt bij het gebruik van de Morse-app, schrijf ons dan een e-mail of open een probleem op GitHub. We zullen onmiddellijk reageren en de bug zo snel mogelijk verhelpen.

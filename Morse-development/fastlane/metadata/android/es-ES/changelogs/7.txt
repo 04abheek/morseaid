@@ -1,0 +1,4 @@
+- Nuevo modo de entrada : Tecla de telégrafo
+- Pequeñas mejoras internas
+- Corrección de errores y fallas
+- Compatible con Android 11

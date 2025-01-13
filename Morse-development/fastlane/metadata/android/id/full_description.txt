@@ -1,0 +1,41 @@
+Menguraikan kode morse ke teks atau teks ke kode morse
+
+Ubah teks apa pun menjadi kode morse atau terjemahkan kode morse menjadi teks dan dengarkan hasilnya.
+
+• Desain dan antarmuka aplikasi yang bersih dan modern.
+• Dibuat agar mudah digunakan untuk semua orang.
+• Terjemahan waktu nyata: ketik kata atau kode dan segera terjemahkan.
+• Dekode dari morse ke teks atau teks ke morse.
+• Tekan tombol pengeras suara untuk mendengar kodenya.
+• Salin teks dengan menekan tombol "Salin".
+• Ketik titik dan tanda hubung menggunakan papan ketik morse bawaan kami.
+• Perangkat lunak gratis (https://github.com/Crazy-Marvin/Morse)
++ Lebih banyak fitur yang sedang direncanakan.
+
+Jangan biarkan karakter khusus atau titik dan garis membingungkan Anda.
+
+Kode morse adalah sistem penyandian huruf dan angka menjadi tanda putus-putus dan titik.
+Durasi tanda hubung adalah tiga kali durasi titik.
+Setiap titik atau tanda hubung diikuti oleh periode tidak adanya sinyal yang disebut spasi, sama dengan durasi titik.
+
+Kode morse pertama kali digunakan untuk berkomunikasi melalui telegraf.
+Kode Morse yang paling terkenal adalah SOS, yang digunakan untuk menandakan keadaan darurat.
+Selain mengetik titik dan putus-putus, Anda juga dapat memberi isyarat kode morse dengan menyalakan dan mematikan lampu, membunyikan klakson atau mengetuk, dll.
+Semua cara mentransmisikan kode Morse mengharuskan penerima untuk memahaminya.
+Jika tidak, alat penyandian kami dapat digunakan untuk mengetahui kata sandi, nomor rahasia, atau info apa pun yang ingin Anda sampaikan.
+Karena orang jarang berkomunikasi melalui telegraf atau mempelajarinya di militer, sangat sedikit orang yang hafal kode morse.
+Sebaliknya, itu telah menjadi cara untuk menyandikan sesuatu untuk tujuan khusus.
+Ini adalah bahasa yang berguna untuk diketahui bahkan jika Anda hanya ingin belajar kriptografi atau memecahkan kriptogram untuk bersenang-senang.
+
+1. Beritahu orang lain ketika Anda berada dalam situasi berbahaya (SOS).
+2. Sembunyikan nomor rahasia atau kata sandi Anda melalui titik dan garis.
+3. Menyandikan atau menguraikan petunjuk tersembunyi dalam gim.
+4. Belajar kriptografi atau kriptogram melalui pembelajaran kode morse.
+5. Menjadi pemecah kode dengan memecahkan kode rahasia dalam terjemahan waktu nyata.
+6. Buat nomor rahasia.
++ Banyak lagi
+
+---
+Ulasan Anda sangat membantu atau Anda bisa membintangi proyek di repositori kode sumber, itu berarti banyak bagi kami.
+Jika Anda memiliki masalah dalam menggunakan aplikasi, silakan tulis surel atau laporkan masalah di GitHub.
+Kami biasanya memberikan tanggapan langsung dan kesalahan diperbaiki sesegera mungkin.

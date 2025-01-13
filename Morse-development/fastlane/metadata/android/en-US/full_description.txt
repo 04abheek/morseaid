@@ -1,0 +1,41 @@
+Decipher Morse code to text or text to Morse code
+
+Turn any text into Morse code, or translate Morse code to text and hear the results.
+
+•	Clean, modern app design and interface.
+•	Made to be simple to use for everyone.
+•	Realtime translation: type in the word or code and have it translated immediately.
+•	Decode from Morse to text, or text to Morse.
+•	Press the speaker button to hear the code.
+•	Copy the text by pressing the "Copy" button.
+•	Type in dot and dash using our built-in Morse keyboard. 
+•	Libre software (https://github.com/Crazy-Marvin/Morse)
++	More features planned.
+
+Don’t let the special characters or dots and dashes befuddle you.
+
+Morse code is a system to encode letters and numbers to dash and dot signs.
+The duration of the dash is three times the duration of a dot.
+Each dot or dash is followed by period of signal absence, called a space, equal to the dot duration.
+
+Morse code was first used for communicating via telegraph.
+The most well-known Morse code is SOS, which is used to signal an emergency.
+Aside from typing dots and dashed, you can also signal Morse code by turning light on and off, sounding a horn or tapping, etc.
+All means of transmitting Mores code require the recipient understands it.
+If not, our cipher tool can be used to find out the password, secret number, or any info you want to relay. 
+Since people rarely communicate via telegraph, or learn it in the military, very few people have Morse codes memorized.
+Instead, it has become a way to encode something for special purposes.
+It’s a useful language to know even if you just want to learn cryptography or solve cryptograms for fun.
+
+1.	Tell others when you are in a dangerous situation (SOS).
+2.	Hide your secret number or password via dots and dashes.
+3.	Cipher or decipher hidden clues in games.
+4.	Learn cryptography or cryptogram through learning Morse codes.
+5.	Become a codebreaker by breaking secret codes in real time translation.
+6.  Create a secret number.
++   Many more 
+
+---
+It really helps to leave a review or to star the project in the source code repsitory, and it means the world to us.
+If you have problems using the app, please write an e-mail or open an issue on GitHub.
+Responses are most often immediate, and bugs are fixed as soon as possible. 

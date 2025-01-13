@@ -1,0 +1,4 @@
+- Nou mode d'entrada: Clau telegràfica 
+- Petites millores internes
+- Correcció d'errors i problemes
+- Suport Android 11

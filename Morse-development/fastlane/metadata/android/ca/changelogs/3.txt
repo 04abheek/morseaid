@@ -1,0 +1,2 @@
+L'aplicació ara ofereix suggeriments intel·ligents
+Ara és possible utilitzar la llanterna per als senyals Morse

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E2129</color>
+    <color name="colorPrimaryDark">#1E2129</color>
+    <color name="colorAccent">#7DD3D8</color>
+    <color name="colorBackground">#000000</color>
+    <color name="colorSecondaryText">#98989C</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorGradientFill">#252830</color>
+    <color name="colorTest">#282B34</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorDialogTranslucent">#8f000000</color>
+    <color name="background_color">#FFFFFF</color> <!-- Changed to white -->
+    <color name="text_color">#000000</color> <!-- Changed to black -->
+    <color name="textGrey3">#323643</color>
+    <color name="colorGreyLight">#FF9B9B9B</color>
+    <color name="colorMorse">#7DD3D8</color>
+</resources>

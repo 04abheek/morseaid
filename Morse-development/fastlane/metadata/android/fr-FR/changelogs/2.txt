@@ -1,0 +1,1 @@
+Correction d'un plantage forcé après la lecture audio 😎

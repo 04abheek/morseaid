@@ -1,0 +1,2 @@
+De app biedt nu intelligente suggesties
+Het is nu mogelijk de zaklamp te gebruiken voor morse signalen

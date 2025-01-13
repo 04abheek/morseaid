@@ -1,0 +1,4 @@
+- Mode input baru: Telegaph Key
+- Memperbaiki beberapa masalah
+- Perbaikan bug & crash
+- Target Android 11

@@ -1,0 +1,4 @@
+Nieuwe invoer mode: Telegrafische Toets
+Onder de motorkap verbeteringen
+Bugs & crashes opgelost
+Doel Android 11

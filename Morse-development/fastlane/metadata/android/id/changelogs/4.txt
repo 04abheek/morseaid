@@ -1,0 +1,5 @@
+Menambahkan buku frasa
+Migrasi ke AndroidX
+Memperbarui SDK
+Meningkatkan aksesibilitas
+Memperbarui dependensi

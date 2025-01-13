@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    android:padding="0dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/text_view_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="CLICK ON THE COLOUR TO USE IT"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/white_outline"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="15dp"
+        android:stretchColumns="1">
+
+        <!-- Fire -->
+        <TableRow>
+            <TextView
+                android:id="@+id/fire"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="8dp"
+                android:text="Fire"
+                android:textColor="#000000"
+                android:background="#FF0000"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+        <!-- Medical Emergency -->
+        <TableRow>
+            <TextView
+                android:id="@+id/me"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="18dp"
+                android:text="Medical emergency"
+                android:textColor="#FFFFFF"
+                android:background="#0000FF"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+        <!-- Infant or Child Abduction -->
+        <TableRow>
+            <TextView
+                android:id="@+id/ica"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="18dp"
+                android:text="Infant or Child Abduction"
+                android:textColor="#000000"
+                android:background="#FFC0CB"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+        <!-- Hazardous Material Spill -->
+        <TableRow>
+            <TextView
+                android:id="@+id/hmse"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="18dp"
+                android:text="Disaster Alert"
+                android:textColor="#000000"
+                android:background="#ff8c00"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+        <!-- Disaster -->
+        <TableRow>
+            <TextView
+                android:id="@+id/disaster"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="18dp"
+                android:text="Hazardous Materials or Chemical Spills"
+                android:textColor="#000000"
+                android:background="#FFFF00"
+                android:textSize="20.7sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+        <!-- Aggression or Violence -->
+        <TableRow>
+            <TextView
+                android:id="@+id/av"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="18dp"
+                android:text="Aggression or Violence"
+                android:textColor="#000000"
+                android:background="#FFFFFF"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:id="@+id/bt"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="8dp"
+                android:layout_marginTop="18dp"
+                android:text="Situation Under Control"
+                android:textColor="#FFFFFF"
+                android:background="#008000"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:gravity="center" />
+        </TableRow>
+
+    </TableLayout>
+</LinearLayout>

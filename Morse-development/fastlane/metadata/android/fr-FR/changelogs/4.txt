@@ -1,0 +1,5 @@
+Ajout d'un guide de conversation
+Migration vers AndroidX
+Mise à jour du SDK
+Amélioration de l'accessibilité
+Mise à jour des dépendances

@@ -1,0 +1,2 @@
+La aplicación ofrece ahora sugerencias inteligentes
+Ahora es posible utilizar la linterna para señales Morse

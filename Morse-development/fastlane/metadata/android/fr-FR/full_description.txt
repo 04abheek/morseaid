@@ -1,0 +1,41 @@
+Déchiffrer du code Morse vers du texte ou du texte en code Morse
+
+Transformez n'importe quel texte en code Morse, ou traduisez du code Morse en texte et écoutez le résultat.
+
+•	Conception et interface propre et moderne.
+•	Conçu pour être simple à utiliser pour tout le monde.
+•	Traduction en temps réel : saisissez le mot ou code et faites-le traduire immédiatement.
+•	Décoder du Morse en texte, ou du texte en Morse.
+•	Appuyez sur le bouton haut-parleur pour entendre le code.
+•	Copiez le texte en appuyant sur le bouton "Copier".
+•	Écrivez en point et trait en utilisant notre clavier Morse intégré .
+•	Logiciel Libre (https://github.com/Crazy-Marvin/Morse)
++	Davantage de fonctionnalités sont prévues.
+
+Ne laissez pas les caractères spéciaux ou les points et les traits vous rendre confus.
+
+Le code Morse est un système pour encoder les lettres et les nombres sous forme de points et de traits.
+La durée du trait est trois fois la durée d'un point.
+Chaque point ou trait est suivi d'une période d'absence de signal, appelée espace, égale à la durée du point.
+
+Le code Morse a premièrement été utilisé pour communiquer par télégraphe.
+Le code Morse le plus connu est SOS, qui est utilisé pour signaler une urgence.
+En plus d'écrire des points et des tirets, vous pouvez également signaler du code Morse en allumant et éteignant une lumière, en sonnant une corne ou en tapant, etc.
+Tous les moyens de transmettre le code Morse exigent que le destinataire le comprenne.
+Si ce n'est pas le cas, notre outil de chiffrement/déchiffrement peut être utilisé pour trouver le mot de passe, le numéro secret, ou toute info que vous voulez relayer .
+Comme les gens communiquent rarement via le télégraphe, ou l'apprennent dans l'armée, très peu de gens ont mémorisé les codes morse.
+Au lieu de cela, il est devenu un moyen de coder quelque chose à des fins spéciales.
+C'est une langue utile à savoir même si vous voulez simplement apprendre la cryptographie ou résoudre des cryptogrammes pour le plaisir.
+
+1.	Dites aux autres quand vous êtes dans une situation dangereuse (SOS).
+2.	Cacher votre numéro secret ou mot de passe via des points et des traits.
+3.	Chiffrer ou déchiffrer des indices cachés dans les jeux.
+4.	Apprenez la cryptographie ou les cryptogrammes par l'apprentissage des codes morses.
+5.	Devenez un cryptanalyste en cassant des codes secrets avec la traduction en temps réel.
+6.  Créer un numéro secret.
++   Bien plus encore 
+
+---
+Cela nous aide vraiment de laisser un avis ou de marquer le projet d'une étoile dans le répertoire du code source, et cela signifie beaucoup pour nous.
+Si vous avez des problèmes en utilisant l'application, veuillez écrire un e-mail ou ouvrir un ticket sur GitHub.
+Les réponses sont le plus souvent immédiates, et les bogues sont corrigés dès que possible.

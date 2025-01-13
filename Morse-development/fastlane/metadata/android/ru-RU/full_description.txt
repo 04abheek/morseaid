@@ -1,0 +1,40 @@
+Декодируйте морзянку в текст и обратно
+
+Превратите любой текст в морзянку, или переведите морзянку в текст и прослушайте, что получилось.
+
+•	Чистый интерфейс и дизайн приложения
+•	Сделано для того, чтобы быть понятным для любого.
+•	Перевод в реальном времени: введи слово или код и получи перевод в ту же секунду.
+•	Нажми кнопку с динамиком для того, чтобы прослушать код.
+•	Для копирования, нажми на кнопку "Скопировать".
+•	Печатай точками и тире на встроенной клавиатуре Морзе.
+•	Свободная программа (https://github.com/Crazy-Marvin/Morse)
++	Много функций в разработке.
+
+Не дай спецсимволам, точкам или тире смутить тебя.
+
+Азбука Морзе нужна для кодирования букв и цифр при помощи точек и тире.
+Длительность тире в три раза больше длительности точки.
+За каждой точкой и тире следует пауза длительностью с точку.
+
+Морзянка использовалась для общения по телеграфу.
+Самый известный код на морзянке — SOS. Сигнал опасности.
+Вместо записи тире и точек, вы можете моргать вспышкой, дудеть, постукивать, …
+Смысл морзянки теряется, если получатель сообщения её не знает.
+If not, our cipher tool can be used to find out the password, secret number, or any info you want to relay.
+Так как люди редко общаются по телеграфу и учат её на военной службе, очень малое количество из них помнит морзянку.
+Так что её можно использовать в виде шифра для специальных целей.
+Это довольно полезный навык, если ты хочешь овладеть самыми азами криптографии или решать криптограммы в удовольствие.
+
+1.	Tell others when you are in a dangerous situation (SOS).
+2.	Hide your secret number or password via dots and dashes.
+3.	Cipher or decipher hidden clues in games.
+4.	Learn cryptography or cryptogram through learning Morse codes.
+5.	Become a codebreaker by breaking secret codes in real time translation.
+6.  Create a secret number.
++   Many more
+
+---
+It really helps to leave a review or to star the project in the source code repsitory, and it means the world to us.
+If you have problems using the app, please write an e-mail or open an issue on GitHub.
+Responses are most often immediate, and bugs are fixed as soon as possible.

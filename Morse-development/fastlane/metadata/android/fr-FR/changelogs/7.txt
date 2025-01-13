@@ -1,0 +1,4 @@
+- Nouveau mode d'entrée : Clé télégraphique
+- Améliorations internes mineures
+- Corrections des bugs et plantages
+- Supporte Android 11
